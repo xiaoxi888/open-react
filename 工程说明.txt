@@ -1,0 +1,12 @@
+工程名称				模块		分支递增			环境
+icec-cloud-finance-joint-react		维修厂		release-aston32...		test hwbeta gamma
+
+icec-cloud-financial-seller-react	卖家中心    	release-aston46...		test hwbeta gamma
+
+icec-cloud-financial-system-react	管理中心		release-aston44-test...	test hwbeta gamma
+
+icec-cloud-joint-mobile		实名认证		FXM-Aston33
+
+icec-cloud-joint-seller-react		卖家中心		release-aston27...、release-bosch    	test hwbeta gamma
+
+icec-cloud-joint-system-react		管理中心		release-aston25...		test hwbeta gamma
